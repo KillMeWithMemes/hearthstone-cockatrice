@@ -338,6 +338,7 @@
       <manacost>4</manacost>
       <type>Minion</type>
       <text>Deathrattle: Return a random friendly minion ot your hand.</text>
+      <pt>5/5</pt>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -5112,7 +5113,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <name>Resurrect</name>
       <set PicURL="Resurrect.png">Priest BRM</set>
       <manacost>2</manacost>
-      <type>Minion</type>
+      <type>Spell</type>
       <text>Summon a random friendly minion that died this game.</text>
       <tablerow>3</tablerow>
     </card>
@@ -5188,7 +5189,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
 <card>
       <name>Vol'jin</name>
       <set PicURL="Vol'jin.png">Priest GvG</set>
-      <manacost>?</manacost>
+      <manacost>5</manacost>
       <type>Legendary Minion</type>
       <text>Battlecry: Swap Health with another minion.</text>
       <pt>6/2</pt>
@@ -5430,6 +5431,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <manacost>1</manacost>
       <type>Minion - Mech</type>
       <text>Deathrattle: Deal 1-4 damage to a random enemy.</text>
+      <pt>1/1</pt>
       <tablerow>2</tablerow>
     </card>
 <card>
@@ -5939,7 +5941,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <manacost>3</manacost>
       <type>Minion</type>
       <text>Charge Battlecry: Gain +1 Attack for each enemy minion that died this turn.</text>
-      <pt></pt>
+      <pt>1/3</pt>
       <tablerow>2</tablerow>
     </card>
 <card>
@@ -6195,7 +6197,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
 <card>
       <name>Argent Recruit</name>
       <set PicURL="">Paladin Expansion 1</set>
-      <manacost></manacost>
+      <manacost>1</manacost>
       <type>Minion</type>
       <text>Battlecry: Put a random Secret from your deck into the battlefield.</text>
       <pt>1/1</pt>
@@ -6679,7 +6681,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
 <card>
       <name>Disintigrate</name>
       <set PicURL="">Priest Expansion 2</set>
-      <manacost></manacost>
+      <manacost>5</manacost>
       <type>Spell</type>
       <text>Deal 3 damage to a minion. If that kills it deal 5 damage to a random enemy.</text>
       <pt></pt>
@@ -6805,7 +6807,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
 <card>
       <name>Worgen Rager</name>
       <set PicURL="">Warrior Expansion 2</set>
-      <manacost></manacost>
+      <manacost>6</manacost>
       <type>Minion - Beast</type>
       <text>Enrage: +3 Attack and attacks a random enemy.</text>
       <pt>3/6</pt>
@@ -6844,7 +6846,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <manacost>5</manacost>
       <type>Minion</type>
       <text>When a friendly Dragon dies while this is in your hand. Put this into the battlefield.</text>
-      <pt></pt>
+      <pt>3/3</pt>
       <tablerow>2</tablerow>
     </card>
 <card>
@@ -6871,7 +6873,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <manacost>1</manacost>
       <type>Minion</type>
       <text>Battlecry: Give the enemy hero a Fireball. It costs (2) less.</text>
-      <pt></pt>
+      <pt>2/6</pt>
       <tablerow>2</tablerow>
     </card>
 <card>
@@ -6904,7 +6906,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
 <card>
       <name>Sentinel</name>
       <set PicURL="">Token Expansion 2</set>
-      <manacost></manacost>
+      <manacost>1</manacost>
       <type>Token</type>
       <text>Taunt. Can't Attack.</text>
       <pt>1/1</pt>
