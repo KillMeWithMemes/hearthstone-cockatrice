@@ -6514,5 +6514,401 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <pt>1/1</pt>
       <tablerow>2</tablerow>
     </card>
+<card>
+      <name>Dragon Swarm</name>
+      <set PicURL="">Druid Expansion 2</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Choose One - Summon 2 2/2 Whelps; or summon 1 4/4 Whelp.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Spectral Tiger</name>
+      <set PicURL="">Druid Expansion 2</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Costs (2) less for each friendly Beast that died this turn.</text>
+      <pt>5/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Woodland Dragon</name>
+      <set PicURL="">Druid Expansion 2</set>
+      <manacost>6</manacost>
+      <type>Minion - Dragon</type>
+      <text>Choose one - Give your other Dragons +1/+1; or Deal 3 damage.</text>
+      <pt>5/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Beast Form</name>
+      <set PicURL="">Druid Expansion 2</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Your Hero Power becomes 'Gain +2 Attack this turn only.' If already in Beast Form: +3 Attack.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Marksman Gnoll</name>
+      <set PicURL="">Hunter Expansion 2</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Charge. Battlecry: Deal 1 damage.</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Crocalypse</name>
+      <set PicURL="">Hunter Expansion 2</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Summon a 'River Crocolisk' for each friendly minion.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>King Crocolisk</name>
+      <set PicURL="">Hunter Expansion 2</set>
+      <manacost>5</manacost>
+      <type>Minion - Best</type>
+      <text>Give your River Crocolisks +2/+2</text>
+      <pt>4/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Eagle Sight</name>
+      <set PicURL="">Hunter Expansion 2</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Summon a Predator Eagle for the enemy hero.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Burning Hands</name>
+      <set PicURL="">Mage Expansion 2</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Deal 6 damage randomly split amongst a minion and the minions next to it.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Fury Blastmancer</name>
+      <set PicURL="">Mage Expansion 2</set>
+      <manacost>8</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Destroy a random minion.</text>
+      <pt>7/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Weapon Conjurer</name>
+      <set PicURL="">Mage Expansion 2</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Equip a Disenchanting Wand.</text>
+      <pt>3/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Arcane Dancer</name>
+      <set PicURL="">Mage Expansion 2</set>
+      <manacost>8</manacost>
+      <type>Minion</type>
+      <text>Whenever you cast a spell give your hero immune until the end of your next turn.</text>
+      <pt>6/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Noble Avenger</name>
+      <set PicURL="">Paladin Expansion 2</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>When a friendly Silver Hand Recruit dies, gain +2 Attack.</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Divine Absolution</name>
+      <set PicURL="">Paladin Expansion 2</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Deal damage equal to the number of friendly minions that died this turn.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Ark Darkcrasher</name>
+      <set PicURL="">Paladin Expansion 2</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Divine Shield. Does not lose divine shield while attacking.</text>
+      <pt>3/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Recall</name>
+      <set PicURL="">Paladin Expansion 2</set>
+      <manacost>6</manacost>
+      <type>Spell</type>
+      <text>Return all friendly minions to your hand. They cost (2) mana.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Enforcer of Wisdom</name>
+      <set PicURL="">Priest Expansion 2</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Reinvigorate: Draw a card. (Reinvigorate: When this minion is healed to full health.)</text>
+      <pt>4/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Hold the Line</name>
+      <set PicURL="">Priest Expansion 2</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Summon a 1/1 Sentinel for each enemy minion.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Disintigrate</name>
+      <set PicURL="">Priest Expansion 2</set>
+      <manacost></manacost>
+      <type>Spell</type>
+      <text>Deal 3 damage to a minion. If that kills it deal 5 damage to a random enemy.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Drain Heal</name>
+      <set PicURL="">Priest Expansion 2</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Destroy a friendly minion and restore its health to all friendly characters.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Worgen Bloodbringer</name>
+      <set PicURL="">Rogue Expansion 2</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Stealth. Battlecry: Deal 2 damage to a minion.</text>
+      <pt>5/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Darkscale Deciever</name>
+      <set PicURL="">Rogue Expansion 2</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Destroy your opponent's weapon and gain Attack equal to its Attack.</text>
+      <pt>3/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Mist Dragon</name>
+      <set PicURL="">Rogue Expansion 2</set>
+      <manacost>8</manacost>
+      <type>Minion - Dragon</type>
+      <text>Stealth.</text>
+      <pt>8/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Venomwing</name>
+      <set PicURL="">Rogue Expansion 2</set>
+      <manacost>5</manacost>
+      <type>Minion - Dragon</type>
+      <text>At the end of your turn deal 1 damage to all enemy minions. Gain +1/+1 for each minion killed this way.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Overload Channeler</name>
+      <set PicURL="">Shaman Expansion 2</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Spell Damage +1 for each Overloaded mana crystal you have.</text>
+      <pt>5/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Reinvigorate</name>
+      <set PicURL="">Shaman Expansion 2</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Draw cards equal to your overload.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Fire Infusion</name>
+      <set PicURL="">Shaman Expansion 2</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Give a minion 'Deathrattle: Destroy adjacent minions.' Overload: (3)</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Gift of the Firelord</name>
+      <set PicURL="">Shaman Expansion 2</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Give a friendly minion 'Can't Attack. At the end of your turn deal its Attack to a random enemy minion.'</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Dark Wielder</name>
+      <set PicURL="">Warlock Expansion 2</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Put a Drain Life and Shadow Bolt into your hand.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Netherwing Drake</name>
+      <set PicURL="">Warlock Expansion 2</set>
+      <manacost>6</manacost>
+      <type>Minion - Dragon</type>
+      <text>Your other Dragons are treathed as Demons instead. (includes your hand)</text>
+      <pt>6/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Pact of Blood</name>
+      <set PicURL="">Warlock Expansion 2</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>The next Demon you play deals damage to your hero equal to its cost instead of using mana.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Soul Rend</name>
+      <set PicURL="">Warlock Expansion 2</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Give a minion 'Deathrattle Destroy any other copies of this minion (if any).</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Worgen Rager</name>
+      <set PicURL="">Warrior Expansion 2</set>
+      <manacost></manacost>
+      <type>Minion - Beast</type>
+      <text>Enrage: +3 Attack and attacks a random enemy.</text>
+      <pt>3/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Upset</name>
+      <set PicURL="">Warrior Expansion 2</set>
+      <manacost>5</manacost>
+      <type>Spell</type>
+      <text>Gain Attack this turn only and Armor equal to the number of damage characters.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Bomb Squad</name>
+      <set PicURL="">Warrior Expansion 2</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Give your weapon Deathrattle: Deal 3 damage to all minions.</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Warfury Dragon</name>
+      <set PicURL="">Warrior Expansion 2</set>
+      <manacost>8</manacost>
+      <type>Minion - Dragon</type>
+      <text>Whenever this minion takes damage, deal 3 damage randomly split among all characters.</text>
+      <pt>9/9</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Servant of Flame</name>
+      <set PicURL="">Neutral Expansion 2</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>When a friendly Dragon dies while this is in your hand. Put this into the battlefield.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Sane Bomber</name>
+      <set PicURL="">Neutral Expansion 2</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Destroy a Mech and gain +1/+1</text>
+      <pt>4/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Violet Proto-Drake</name>
+      <set PicURL="">Neutral Expansion 2</set>
+      <manacost>7</manacost>
+      <type>Minion - Dragon</type>
+      <text>Costs (1) less for each Dragon on the battlefield.</text>
+      <pt>5/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Spell Burner</name>
+      <set PicURL="">Neutral Expansion 2</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Give the enemy hero a Fireball. It costs (2) less.</text>
+      <pt></pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Magma Elemental</name>
+      <set PicURL="">Neutral Expansion 2</set>
+      <manacost>10</manacost>
+      <type>Minion - Legendary</type>
+      <text>Battlecry: Replace your hand with Magma Ragers</text>
+      <pt>10/10</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Disenchanting Wand</name>
+      <set PicURL="">Token Expansion 2</set>
+      <manacost>1</manacost>
+      <type>Token</type>
+      <text>Attacking a minion silences the minion.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Predator Eagle</name>
+      <set PicURL="">Token Expansion 2</set>
+      <manacost>3</manacost>
+      <type>Token</type>
+      <text>At the end of your turn, show the enemy hero your hand.</text>
+      <pt>2/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+<card>
+      <name>Sentinel</name>
+      <set PicURL="">Token Expansion 2</set>
+      <manacost></manacost>
+      <type>Token</type>
+      <text>Taunt. Can't Attack.</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
   </cards>
 </cockatrice_carddatabase>
