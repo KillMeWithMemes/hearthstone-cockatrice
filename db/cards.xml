@@ -6236,7 +6236,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <manacost>2</manacost>
       <type>Minion</type>
       <text>Battlecry: Give a minion -1/-1.</text>
-      <pt>3/2</pt>
+      <pt>2/3</pt>
       <tablerow>2</tablerow>
     </card>
 <card>
@@ -6342,7 +6342,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <set PicURL="">Warlock Expansion 1</set>
       <manacost>4</manacost>
       <type>Minion</type>
-      <text>Battlecry: Destroy a friendly demon and gain +2/+1.</text>
+      <text>Battlecry: Destroy a friendly demon and gain +2 Attack.</text>
       <pt>3/5</pt>
       <tablerow>2</tablerow>
     </card>
@@ -6369,8 +6369,8 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <set PicURL="">Warlock Expansion 1</set>
       <manacost>6</manacost>
       <type>Legendary Minion - Demon</type>
-      <text>Whenever you would normally discard a card, draw one.</text>
-      <pt>6/6</pt>
+      <text>Whenever you discard a card, draw a card.</text>
+      <pt>5/5</pt>
       <tablerow>2</tablerow>
     </card>
 <card>
@@ -6546,7 +6546,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
 <card>
       <name>Beast Form</name>
       <set PicURL="">Druid Expansion 2</set>
-      <manacost>2</manacost>
+      <manacost>3</manacost>
       <type>Spell</type>
       <text>Your Hero Power becomes 'Gain +2 Attack this turn only.' If already in Beast Form: +3 Attack.</text>
       <pt></pt>
@@ -6557,7 +6557,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <set PicURL="">Hunter Expansion 2</set>
       <manacost>2</manacost>
       <type>Minion</type>
-      <text>Charge. Battlecry: Deal 1 damage.</text>
+      <text>Charge. Battlecry: Deal 1 damage. 50% chance to attack the wrong enemy.</text>
       <pt>1/1</pt>
       <tablerow>2</tablerow>
     </card>
@@ -6603,7 +6603,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <manacost>8</manacost>
       <type>Minion</type>
       <text>Battlecry: Destroy a random minion.</text>
-      <pt>7/6</pt>
+      <pt>7/5</pt>
       <tablerow>2</tablerow>
     </card>
 <card>
@@ -6672,7 +6672,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
 <card>
       <name>Hold the Line</name>
       <set PicURL="">Priest Expansion 2</set>
-      <manacost>1</manacost>
+      <manacost>2</manacost>
       <type>Spell</type>
       <text>Summon a 1/1 Sentinel for each enemy minion.</text>
       <pt></pt>
@@ -6681,7 +6681,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
 <card>
       <name>Disintigrate</name>
       <set PicURL="">Priest Expansion 2</set>
-      <manacost>5</manacost>
+      <manacost>4</manacost>
       <type>Spell</type>
       <text>Deal 3 damage to a minion. If that kills it deal 5 damage to a random enemy.</text>
       <pt></pt>
@@ -6738,7 +6738,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <manacost>5</manacost>
       <type>Minion</type>
       <text>Spell Damage +1 for each Overloaded mana crystal you have.</text>
-      <pt>5/5</pt>
+      <pt>5/4</pt>
       <tablerow>2</tablerow>
     </card>
 <card>
