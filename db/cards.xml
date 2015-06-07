@@ -529,7 +529,7 @@
       <manacost>5</manacost>
       <type>Spell</type>
       <text>Deal 2 damage to a character. If that kills it, summon a random Demon.
-(Summons Dread Infernal, Succubus, Voidwalker, Blood Imp, Flame Imp or Felguard.)</text>
+(Search demon type in card list and roll dice.)</text>
       <tablerow>3</tablerow>
     </card>
     <card>
@@ -1346,7 +1346,7 @@
       <name>Faerie Dragon</name>
       <set muId="NEW1_023">Neutral</set>
       <manacost>2</manacost>
-      <type>Minion</type>
+      <type>Minion - Dragon</type>
       <text>Can't be targeted by Spells or Hero Powers.</text>
       <pt>3/2</pt>
       <tablerow>2</tablerow>
@@ -1833,7 +1833,7 @@
       <name>Frog</name>
       <set muId="hexfrog">Token</set>
       <manacost>0</manacost>
-      <type>Minion</type>
+      <type>Minion - Beast</type>
       <text>Taunt</text>
       <pt>0/1</pt>
       <tablerow>2</tablerow>
@@ -2036,7 +2036,7 @@
       <name>Ironbeak Owl</name>
       <set muId="CS2_203">Neutral</set>
       <manacost>2</manacost>
-      <type>Minion</type>
+      <type>Minion - Beast</type>
       <text>Battlecry: Silence a minion.</text>
       <pt>2/1</pt>
       <tablerow>2</tablerow>
@@ -2194,7 +2194,7 @@
       <name>Whelp</name>
       <set muId="EX1_116t">Token</set>
       <manacost>1</manacost>
-      <type>Minion</type>
+      <type>Minion - Dragon</type>
       <text/>
       <pt>1/1</pt>
       <tablerow>2</tablerow>
@@ -2853,7 +2853,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <name>Sheep</name>
       <set muId="CS2_tk1">Token</set>
       <manacost>0</manacost>
-      <type>Minion</type>
+      <type>Minion - Beast</type>
       <text/>
       <pt>1/1</pt>
       <tablerow>2</tablerow>
@@ -2991,7 +2991,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <name>Boar</name>
       <set muId="CS2_boar">Token</set>
       <manacost>1</manacost>
-      <type>Minion</type>
+      <type>Minion - Beast</type>
       <text/>
       <pt>1/1</pt>
       <tablerow>2</tablerow>
@@ -3945,7 +3945,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <name>Voidwalker</name>
       <set muId="CS2_065">Warlock</set>
       <manacost>1</manacost>
-      <type>Minion</type>
+      <type>Minion - Demon</type>
       <text>Taunt</text>
       <pt>1/3</pt>
       <tablerow>2</tablerow>
@@ -4148,7 +4148,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <name>Emerald Drake</name>
       <set muId="DREAM_03">Dream</set>
       <manacost>4</manacost>
-      <type>Minion</type>
+      <type>Minion - Dragon</type>
       <text/>
       <pt>7/6</pt>
       <tablerow>2</tablerow>
@@ -5346,7 +5346,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <name>Siltfin Spiritwalker</name>
       <set PicURL="Siltfin Spiritwalker.png">Shaman GvG</set>
       <manacost>4</manacost>
-      <type>Minion - Minion</type>
+      <type>Minion - Murloc</type>
       <text>Whenever another friendly Murloc dies, draw a card. Overload: (1)</text>
       <pt>2/5</pt>
       <tablerow>2</tablerow>
@@ -5355,7 +5355,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <name>Vitality Totem</name>
       <set PicURL="Vitality Totem.png">Shaman GvG</set>
       <manacost>2</manacost>
-      <type>Minion</type>
+      <type>Minion - Totem</type>
       <text>At the end of your turn, restore 4 health to your hero.</text>
       <pt>0/4</pt>
       <tablerow>2</tablerow>
@@ -6574,7 +6574,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <name>King Crocolisk</name>
       <set PicURL="">Hunter Expansion 2</set>
       <manacost>5</manacost>
-      <type>Minion - Best</type>
+      <type>Minion - Beast</type>
       <text>Give your River Crocolisks +2/+2</text>
       <pt>4/5</pt>
       <tablerow>2</tablerow>
@@ -6880,7 +6880,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <name>Magma Elemental</name>
       <set PicURL="">Neutral Expansion 2</set>
       <manacost>10</manacost>
-      <type>Minion - Legendary</type>
+      <type>Legendary Minion</type>
       <text>Battlecry: Replace your hand with Magma Ragers</text>
       <pt>10/10</pt>
       <tablerow>2</tablerow>
@@ -6898,7 +6898,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <name>Predator Eagle</name>
       <set PicURL="">Token Expansion 2</set>
       <manacost>3</manacost>
-      <type>Token</type>
+      <type>Token - Beast</type>
       <text>At the end of your turn, show the enemy hero your hand.</text>
       <pt>2/5</pt>
       <tablerow>2</tablerow>
