@@ -5840,7 +5840,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <set PicURL="">Hunter Custom</set>
       <manacost>4</manacost>
       <type>Minion</type>
-      <text>Battlecry: Deal 5 damage to a minion, reduce this damage by 1 for each friendly minion.</text>
+      <text>Battlecry: Deal 4 damage to a minion, Deals 1 less damage for each friendly minion.</text>
       <pt>3/3</pt>
       <tablerow>2</tablerow>
     </card>
