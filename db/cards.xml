@@ -5680,10 +5680,10 @@ Hero Power: Summon a 6/6 Infernal.</text>
 <card>
       <name>Blindlight Lunatic</name>
       <set PicURL="">Warlock Custom</set>
-      <manacost>3</manacost>
+      <manacost>2</manacost>
       <type>Minion - Murloc</type>
-      <text>Battlecry: Look at the bottom three cards of your deck. Draw one and return the others.</text>
-      <pt>2/3</pt>
+      <text>100% chance to attack the wrong character. (CAN HIT YOUR STUFF)</text>
+      <pt>3/3</pt>
       <tablerow>2</tablerow>
     </card>
 <card>
