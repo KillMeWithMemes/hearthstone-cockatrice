@@ -6190,8 +6190,8 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <set PicURL="">Mage Expansion 1</set>
       <manacost>8</manacost>
       <type>Legendary Minion</type>
-      <text>Battlecry: Shuffle 3 Wisps into your opponent's deck. Put 3 Wisps into your hand.</text>
-      <pt>6/7</pt>
+      <text>Battlecry: Shuffle 2 Wisps into your opponent's deck. Put 2 Wisps into your hand.</text>
+      <pt>4/7</pt>
       <tablerow>2</tablerow>
     </card>
 <card>
@@ -6268,7 +6268,7 @@ Hero Power: Summon a 6/6 Infernal.</text>
 <card>
       <name>Worgen Weaponmaster</name>
       <set PicURL="">Rogue Expansion 1</set>
-      <manacost>3</manacost>
+      <manacost>4</manacost>
       <type>Minion</type>
       <text>If you have a weapon equipped at the end of your turn, gain +2/+2</text>
       <pt>2/2</pt>
@@ -6701,8 +6701,8 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <set PicURL="">Rogue Expansion 2</set>
       <manacost>5</manacost>
       <type>Minion</type>
-      <text>Stealth. Battlecry: Deal 2 damage to a minion.</text>
-      <pt>5/4</pt>
+      <text>Stealth. Combo: Deal 3 damage to a minion.</text>
+      <pt>4/4</pt>
       <tablerow>2</tablerow>
     </card>
 <card>
@@ -6808,8 +6808,8 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <name>Worgen Rager</name>
       <set PicURL="">Warrior Expansion 2</set>
       <manacost>6</manacost>
-      <type>Minion - Beast</type>
-      <text>Enrage: +3 Attack and attacks a random enemy.</text>
+      <type>Minion</type>
+      <text>Enrage: +3 Attack and Charge.</text>
       <pt>3/6</pt>
       <tablerow>2</tablerow>
     </card>
